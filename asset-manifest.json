@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculator-macos/static/css/main.12d84ed5.css",
+    "main.js": "/calculator-macos/static/js/main.919c1701.js",
+    "static/media/RobotoMono-Thin.ttf": "/calculator-macos/static/media/RobotoMono-Thin.1a9534fd24de76752477.ttf",
+    "index.html": "/calculator-macos/index.html",
+    "main.12d84ed5.css.map": "/calculator-macos/static/css/main.12d84ed5.css.map",
+    "main.919c1701.js.map": "/calculator-macos/static/js/main.919c1701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d84ed5.css",
+    "static/js/main.919c1701.js"
+  ]
+}
